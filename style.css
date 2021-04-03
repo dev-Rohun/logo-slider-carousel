@@ -1,0 +1,8 @@
+/* client logo section */
+@media only screen and (max-width: 600px) {
+    .owl-carousel .owl-item img {
+        display: block;
+        width: 60%;
+        margin: auto;
+    }    
+}
